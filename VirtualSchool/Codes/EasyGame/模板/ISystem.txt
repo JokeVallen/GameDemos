@@ -1,0 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using EasyGame;
+using UnityEngine;
+
+[System]
+public class {0} : AbstractSystem
+{
+    protected override void Init()
+    {
+
+    }
+}

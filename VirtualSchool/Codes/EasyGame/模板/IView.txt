@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using EasyGame;
+
+public class {0} : ViewController
+{
+    void Start()
+    {
+        
+    }
+
+    void Update()
+    {
+        
+    }
+}
+

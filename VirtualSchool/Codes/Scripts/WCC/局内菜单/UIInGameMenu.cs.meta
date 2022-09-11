@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46d9c2509171943459ed12349ef0de8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ContinueBtn: {instanceID: 0}
+  - SettingBtn: {instanceID: 0}
+  - BackMainMenuBtn: {instanceID: 0}
+  - settingPanel: {fileID: 5850909105682036493, guid: 7e37c4697c6a4544a87e624a7321cd94, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
